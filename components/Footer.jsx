@@ -19,7 +19,7 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           Beam Me a Message!📡
         </h4>
-        <a href="/Resume_Sept2023.pdf" download="Resume_Shambhavi">
+        <a href="/resume.pdf" download="Resume_ramachandra_reddy.pdf">
           <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
             <img
               src="/headset.svg"
@@ -37,10 +37,10 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <h4 className="font-extrabold text-[24px] text-white">NEBUTRIX
+          <h4 className="font-extrabold text-[24px] text-white">Astrionix
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Created by Shambhavi Mishra
+            Created by RamaChandraReddy
           </p>
 
           <div className="flex gap-4">

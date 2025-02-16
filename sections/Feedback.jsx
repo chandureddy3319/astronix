@@ -21,16 +21,16 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-            Shambhavi
+            Ramachandrareddy
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Aka NebulaTris
+            Astrionix
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          Get ready to embark on a journey of discovery and inspiration! 
-          Cool blogs are on the horizon, bringing you a unique blend of insights, creativity, and entertainment. 
+          Get ready to embark on a journey of discovery and inspiration!
+          Cool blogs are on the horizon, bringing you a unique blend of insights, creativity, and entertainment.
           Stay tuned for a dose of awesomeness coming your way!
         </p>
       </motion.div>

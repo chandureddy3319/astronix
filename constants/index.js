@@ -39,12 +39,12 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   {
-    text: 'BTech CSE',
-    univ: '~ Amity University, Noida',
+    text: 'Master of computer applications',
+    univ: '~ Atria University, Bangalore',
   },
   {
-    text: 'BS Data Science and Programming',
-    univ: '~ Indian Institute of Technology, Madras',
+    text: 'Bachelor of computer applications',
+    univ: '~ Aditya Institute of Technology, kakinada',
   },
 ];
 
@@ -53,7 +53,7 @@ export const newFeatures = [
     imgUrl: '/work.svg',
     title: 'Project Trainee',
     subtitle:
-        'Hexaware Technologies · Full-time',
+        'HC technologies · Full-time',
     subtitle2:
         'Jun 2018',
   },
@@ -92,22 +92,22 @@ export const socials = [
   {
     name: 'github',
     url: '/github.svg',
-    link: 'https://github.com/NebulaTris',
+    link: 'https://github.com/chandureddy3319/',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: 'https://www.linkedin.com/in/nebulatris/',
+    link: 'https://www.linkedin.com/in/ramachandra-reddy-7529161b1/',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: 'https://www.instagram.com/nebula_tris/',
+    link: 'https://www.instagram.com/_chanduuu___/',
   },
   {
     name: 'gmail',
     url: '/gmail.svg',
-    link: 'mailto:www.shamish.201002@gmail.com',
+    link: 'mailto:padalalmrreddy@gmail.com',
   },
 
 ];

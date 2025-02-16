@@ -23,12 +23,12 @@ const About = () => (
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
 
-        I'm Shambhavi, <span className="font-extrabold text-white"> a computer science enthusiast</span>{' '} with a penchant for all things code.
+        I'm Rama Chandra Reddy, <span className="font-extrabold text-white"> a computer science enthusiast</span>{' '} with a penchant for all things code.
         When I'm not tinkering with algorithms or exploring the latest tech trends, you'll find me gazing at the stars or lost in a good book.{' '}
         <br /> <br />
-        <span className="font-extrabold text-white">Why 'NebuTrix'?</span>{' '}
-        Well, the name itself is a cosmic fusion of <span className="font-extrabold text-white">'nebula'</span>, representing the vastness of knowledge, and <span className="font-extrabold text-white">'matrix'</span>, symbolizing the digital world we traverse.
-        Together, they form NebulaTrix - my digital universe.
+        <span className="font-extrabold text-white">Why 'Astrionix'?</span>{' '}
+        Well, the name itself is a cosmic fusion of <span className="font-extrabold text-white">'Astrionix'</span>, representing the vastness of knowledge, and <span className="font-extrabold text-white">'matrix'</span>, symbolizing the digital world we traverse.
+        Together, they form Astrionix- my digital universe.
 
       </motion.p>
 
